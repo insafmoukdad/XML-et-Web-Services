@@ -5,6 +5,8 @@ Practical XML and Web Services repository containing schemas, transformations, a
 <img width="546" height="507" alt="image" src="https://github.com/user-attachments/assets/efb94171-4772-47c0-9626-ccb45f6658d2" />
 
 2-Créer une DTD
+
+
 <img width="437" height="245" alt="image" src="https://github.com/user-attachments/assets/b5500f6a-0e77-4bd1-91d0-ab5d536939ba" />
 
 
