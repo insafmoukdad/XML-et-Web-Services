@@ -14,3 +14,7 @@ Practical XML and Web Services repository containing schemas, transformations, a
 
 
 <img width="771" height="598" alt="image" src="https://github.com/user-attachments/assets/767eab04-c800-4c82-89dc-fe831cbb6dd8" />
+
+4- Créer un schéma XML
+
+<img width="1038" height="782" alt="image" src="https://github.com/user-attachments/assets/3da86e58-1572-4854-a043-8f1954a4b16a" />
